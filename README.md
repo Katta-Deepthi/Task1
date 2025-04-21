@@ -1,3 +1,4 @@
+Summary of changes :
 Removed duplicates: No duplicate rows were found, so no rows were dropped.
 Standardized Gender values: Converted to capitalized form (Male, Female).
 Renamed columns for clarity and consistency:
